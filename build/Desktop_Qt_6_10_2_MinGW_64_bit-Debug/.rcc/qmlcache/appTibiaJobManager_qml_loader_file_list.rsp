@@ -1,0 +1,14 @@
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_TibiaJobManager.qrc
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appTibiaJobManager_raw_qml_0.qrc
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appTibiaJobManager_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/TibiaJobManager/Main.qml
+/qt/qml/TibiaJobManager/qml/TopBar.qml
+/qt/qml/TibiaJobManager/qml/Header.qml
+/qt/qml/TibiaJobManager/qml/ContentArea.qml
+/qt/qml/TibiaJobManager/qml/TimerRow.qml
+/qt/qml/TibiaJobManager/qml/IconButton.qml
+/qt/qml/TibiaJobManager/qml/Footer.qml
+/qt/qml/TibiaJobManager/qml/TibiaScrollBar.qml

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/TibiaJobManager/">
+    <file alias="Main.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/Main.qml</file>
+    <file alias="qml/TopBar.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/TopBar.qml</file>
+    <file alias="qml/Header.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/Header.qml</file>
+    <file alias="qml/ContentArea.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/ContentArea.qml</file>
+    <file alias="qml/TimerRow.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/TimerRow.qml</file>
+    <file alias="qml/IconButton.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/IconButton.qml</file>
+    <file alias="qml/Footer.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/Footer.qml</file>
+    <file alias="qml/TibiaScrollBar.qml">C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/TibiaScrollBar.qml</file>
+  </qresource>
+</RCC>
+

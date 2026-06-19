@@ -1,0 +1,16 @@
+-I
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TibiaJobManager
+-I
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_TibiaJobManager.qrc
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appTibiaJobManager_raw_qml_0.qrc
+--resource
+C:/Users/Dewral/Desktop/QT/TibiaJobManager/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appTibiaJobManager_raw_qml_0_extra_qmldirs.qrc
+--module
+TibiaJobManager

@@ -1,0 +1,13 @@
+module TibiaJobManager
+typeinfo appTibiaJobManager.qmltypes
+prefer :/qt/qml/TibiaJobManager/
+Main 254.0 Main.qml
+TopBar 254.0 qml/TopBar.qml
+Header 254.0 qml/Header.qml
+ContentArea 254.0 qml/ContentArea.qml
+TimerRow 254.0 qml/TimerRow.qml
+IconButton 254.0 qml/IconButton.qml
+Footer 254.0 qml/Footer.qml
+TibiaScrollBar 254.0 qml/TibiaScrollBar.qml
+depends QtQuick
+

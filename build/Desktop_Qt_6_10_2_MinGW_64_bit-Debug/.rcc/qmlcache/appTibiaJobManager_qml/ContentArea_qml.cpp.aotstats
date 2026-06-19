@@ -1,0 +1,119 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "boundsBehavior",
+                            "line": 21,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 19,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 28,
+                            "message": "Cannot access value for name timerList"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "timerName",
+                            "line": 30,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "timerStatus",
+                            "line": 31,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "timerValue",
+                            "line": 32,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "flickable",
+                            "line": 45,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 18,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 40,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 41,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 13,
+                            "durationMicroseconds": 0,
+                            "functionName": "onContentYChanged",
+                            "line": 50,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/ContentArea.qml"
+                }
+            ],
+            "moduleId": "TibiaJobManager(appTibiaJobManager)"
+        }
+    ]
+}

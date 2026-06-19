@@ -1,0 +1,87 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 15,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 10,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 27,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 28,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 34,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 54,
+                            "message": "Cannot access value for name timerModel"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 52,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/Footer.qml"
+                }
+            ],
+            "moduleId": "TibiaJobManager(appTibiaJobManager)"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 15,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 27,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 29,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 15,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 47,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 44,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 15,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 0,
+                            "functionName": "left",
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 59,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "right",
+                            "line": 70,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalCenter",
+                            "line": 72,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 80,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 88,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 96,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/TimerRow.qml"
+                }
+            ],
+            "moduleId": "TibiaJobManager(appTibiaJobManager)"
+        }
+    ]
+}
