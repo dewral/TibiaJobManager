@@ -21,14 +21,17 @@ qt_add_qml_module(appTibiaJobManager
     URI TibiaJobManager
     QML_FILES
         Main.qml
-        QML_FILES qml/TopBar.qml
-        QML_FILES qml/Header.qml
-        QML_FILES qml/ContentArea.qml
-        QML_FILES qml/TimerRow.qml
-        QML_FILES qml/IconButton.qml
-        QML_FILES qml/Footer.qml
-        QML_FILES qml/TibiaScrollBar.qml
-)
+        qml/TopBar.qml
+        qml/Header.qml
+        qml/ContentArea.qml
+        qml/TimerRow.qml
+        qml/IconButton.qml
+        qml/Footer.qml
+        qml/TibiaScrollBar.qml
+        SOURCES
+            source/timermodel.h
+            source/timermodel.cpp
+    )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an
