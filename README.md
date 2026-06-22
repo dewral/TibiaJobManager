@@ -1,4 +1,4 @@
 # TibiaJobManager
 
 
-![Tibia Job Manager](images/previewReadme.png)
+![Tibia Job Manager](data/images/previewReadme.png)
