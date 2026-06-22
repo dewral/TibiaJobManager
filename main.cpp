@@ -3,8 +3,7 @@
 #include <QFont>
 #include <QIcon>
 #include <QQmlContext>
-#include <timermodel.h>
-
+#include "source/timermodel.h"
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
@@ -16,14 +15,14 @@ int main(int argc, char *argv[])
 
 
     QQmlApplicationEngine engine;
-    TimerModel timerModel;
-
     QObject::connect(
         &engine,
         &QQmlApplicationEngine::objectCreationFailed,
         &app,
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
+        TimerModel timerModel;
+
         engine.rootContext()->setContextProperty(
             "timerModel",
             &timerModel
