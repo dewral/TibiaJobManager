@@ -118,12 +118,12 @@
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
+                            "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
                             "line": 96,
-                            "message": ""
+                            "message": "Cannot access value for name timerModel"
                         }
                     ],
                     "filePath": "C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/TimerRow.qml"

@@ -102,12 +102,12 @@
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
+                            "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
                             "line": 79,
-                            "message": ""
+                            "message": "Cannot access value for name root"
                         },
                         {
                             "codegenResult": 0,
@@ -150,12 +150,12 @@
                             "message": ""
                         },
                         {
-                            "codegenResult": 0,
+                            "codegenResult": 2,
                             "column": 24,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
                             "line": 112,
-                            "message": ""
+                            "message": "Cannot access value for name root"
                         },
                         {
                             "codegenResult": 0,

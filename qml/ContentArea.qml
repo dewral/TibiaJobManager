@@ -43,17 +43,5 @@ Rectangle {
         }
 
         flickable: timerList
-
-        Connections {
-            target: timerList
-
-            function onContentYChanged() {
-                console.log(
-                    "contentY =", timerList.contentY,
-                    "contentHeight =", timerList.contentHeight,
-                    "height =", timerList.height
-                )
-            }
-        }
     }
 }

@@ -94,7 +94,7 @@ Rectangle {
             iconSource: "file:///C:/Users/Dewral/Desktop/QT/TibiaJobManager/data/images/resetButton.png"
 
             onClicked: {
-                console.log("Reset")
+                timerModel.removeTimer(index)
             }
         }
     }

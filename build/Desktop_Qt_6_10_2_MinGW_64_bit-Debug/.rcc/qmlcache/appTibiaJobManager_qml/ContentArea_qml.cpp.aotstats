@@ -92,22 +92,6 @@
                             "functionName": "bottom",
                             "line": 42,
                             "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 21,
-                            "durationMicroseconds": 0,
-                            "functionName": "target",
-                            "line": 48,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 13,
-                            "durationMicroseconds": 0,
-                            "functionName": "onContentYChanged",
-                            "line": 50,
-                            "message": ""
                         }
                     ],
                     "filePath": "C:/Users/Dewral/Desktop/QT/TibiaJobManager/qml/ContentArea.qml"

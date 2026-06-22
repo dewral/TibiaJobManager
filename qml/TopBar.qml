@@ -77,7 +77,7 @@ Rectangle {
             anchors.fill: parent
 
             onClicked: {
-
+                root.showMinimized()
             }
         }
     }
@@ -110,7 +110,7 @@ Rectangle {
             anchors.fill: parent
 
             onClicked: {
-
+                root.close()
             }
         }
     }

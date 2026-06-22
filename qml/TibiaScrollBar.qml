@@ -5,6 +5,8 @@ Item {
 
     property bool dragging: false
     property var flickable
+    visible: root.flickable &&
+             root.flickable.contentHeight > root.flickable.height
     height: parent.height
 
     width: 12
@@ -96,7 +98,7 @@ Item {
                   (root.flickable.height /
                    root.flickable.contentHeight)
               )
-            : 32
+            : 20
 
         Binding {
             target: thumb

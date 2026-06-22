@@ -52,11 +52,7 @@ Rectangle {
             anchors.fill: parent
 
             onClicked: {
-                timerModel.append({
-                    "name": "New Job",
-                    "status": "Paused",
-                    "time": "00:00:00"
-                })
+                timerModel.addTimer("New Timer")
             }
         }
     }
